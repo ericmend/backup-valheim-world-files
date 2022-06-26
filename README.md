@@ -29,3 +29,6 @@ python3 -m venv .env
 or
 
 `./run-backup.sh`
+
+#### Schedule :
+[schedule-script-execution](https://www.baeldung.com/linux/schedule-script-execution)
